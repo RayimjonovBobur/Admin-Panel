@@ -1,0 +1,27 @@
+.pen {
+  color: aqua;
+  font-size: 1.5rem;
+}
+
+.add {
+  margin-right: 5rem;
+}
+.img {
+  width: 70px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 1rem;
+}
+
+.success {
+  background-color: #157347;
+  color: #fff;
+}
+
+.ant-tabs-nav-wrap {
+  margin-top: 27rem;
+  z-index: 100;
+  bottom: 0;
+  /* margin-right:  60rem; */
+}
